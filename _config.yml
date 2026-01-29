@@ -8,7 +8,7 @@ language: zh-CN
 timezone: Asia/Shanghai
 
 # URL (上线后Vercel会自动处理，此处保持默认即可)
-url: http://example.com
+url: https://yhblog.vercel.app
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
