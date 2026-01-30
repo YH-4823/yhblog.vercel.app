@@ -77,7 +77,7 @@ pagination_dir: page
 # Extensions
 # ⚠️ 注意：如果您使用的是默认模板，请保持 theme 为 landscape
 # 如果您后续安装了 Butterfly 主题，再将其改为 butterfly
-theme: landscape
+theme: butterfly
 
 # Deployment
 deploy:
