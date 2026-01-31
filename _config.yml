@@ -83,15 +83,3 @@ theme: butterfly
 deploy:
   type: git
 
-# --- 强制覆盖主题配置 (把它放在文件最后) ---
-theme_config:
-  avatar:
-    img: https://unpkg.com/hexo-theme-butterfly/source/img/avatar.png
-    effect: true
-    button:
-      enable: true
-      link: https://github.com/YH-4823
-      text: Follow Me
-      icon: fab fa-github
-  social:
-    fab fa-github: https://github.com/YH-4823 || Github
