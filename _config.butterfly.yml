@@ -1,0 +1,13 @@
+# 侧边栏卡片设置
+avatar:
+  # 头像图片路径，你可以换成自己的
+  img: https://unpkg.com/hexo-theme-butterfly/source/img/avatar.png
+  # 是否将头像做成旋转效果
+  effect: true
+  # 侧边栏的大按钮配置
+  button:
+    enable: true
+    # 这里填你的 GitHub 链接
+    link: https://github.com/YH-4823
+    text: Follow Me
+    icon: fab fa-github
